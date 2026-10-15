@@ -32,4 +32,10 @@ td {
   text-align: center;
 }
 
-
+#wrapper {
+  width: 640px;
+  background: white;
+  margin: 24px auto;
+  padding: 24px;
+  border-radius: 10px;
+}
